@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 # Custom ignore
-conf/
+local/
 .idea/
